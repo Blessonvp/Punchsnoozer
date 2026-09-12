@@ -30,27 +30,23 @@ For Software:
 ### Implementation
 For Software:https://github.com/Blessonvp/Punchsnoozer
 # Installation
-[commands]
+(https://github.com/Blessonvp/Punchsnoozer)
 
 # Run
-[commands]
+# Option 1: VS Code Live Server Extension
+Right-click index.html and select "Open with Live Server"
+
+# Option 2: Direct File Execution
+Double-click index.html to open directly in Google Chrome or Microsoft Edge
 
 ### Project Documentation
 For Software:
 
 # Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
-
-![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
-
-![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
-
+(https://drive.google.com/drive/folders/1WHdk0tqwXmueNFUQw4aEyTp8x9rQN4NT?usp=sharing)
 ### Project Demo
 # Video
-[Add your demo video link here]
+(https://drive.google.com/drive/folders/1WHdk0tqwXmueNFUQw4aEyTp8x9rQN4NT?usp=sharing)
 *Explain what the video demonstrates*
 
 
