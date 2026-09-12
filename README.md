@@ -2,42 +2,33 @@
 
 
 
-# [Project Name] 🎯
+# 🥊 Punchsnoozer 🥊
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: ZERO
 
 
 ### Team Members
-- Team Lead: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Team Lead: Blesson V P - Adi Shankara Institute of Engineering & Technology
+- Member 2: Melvin Manson- Adi Shankara Institute of Engineering & Technology
 
 ### Project Description
-[2-3 lines about what your project does]
-
+PunchSnoozer is a browser-based interactive alarm app designed to eliminate mindless snoozing by forcing physical movement to wake you up. Using real-time computer vision, it tracks your face via webcam and locks a motion-detection target box over your nose. The alarm loops continuously at full volume until you physically sit up and throw a swift punch toward the camera to disarm it.
 ### The Problem (that doesn't exist)
-[What ridiculous problem are you solving?]
-
+Traditional smartphone alarms are too easy to turn off or snooze mindlessly while remaining 99% asleep, resulting in repeated snoozing without any physical effort or wakefulness.
 ### The Solution (that nobody asked for)
-[How are you solving it? Keep it fun!]
-
+An aggressive web application that tracks your face via webcam and overlays a target impact zone directly on your nose. The loud alarm will loop continuously until you physically sit up, aim, and land a swift punch toward the camera.
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
-
-For Hardware:
-- [List main components]
-- [List specifications]
-- [List tools required]
+- HTML5
+- None
+- @mediapipe/face_mesh, @mediapipe/camera_utils
+- VS Code, Git
 
 ### Implementation
-For Software:
+For Software:https://github.com/Blessonvp/Punchsnoozer
 # Installation
 [commands]
 
